@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-qdrant
+qdrant-client
+python-dotenv
+google-generativeai
